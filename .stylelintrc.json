@@ -1,0 +1,3 @@
+{
+    "extends": "stylelint stylelint-config-standard-scss"
+}
